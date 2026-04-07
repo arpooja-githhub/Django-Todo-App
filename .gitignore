@@ -1,14 +1,6 @@
-# Python
+env/
+db.sqlite3
 __pycache__/
 *.pyc
-
-# Django
-db.sqlite3
-/media
-
-# Virtual environment
-env/
-venv/
-
-# Mac
+.vscode/
 .DS_Store
